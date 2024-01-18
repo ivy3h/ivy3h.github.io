@@ -16,7 +16,7 @@ I aspire to explore a broader range of fields in the future.
 
 - **Machine Learning:** Federated Learning, Continual Learning
 
-## Education Experience
+## Education Experiences
 
 - **South China University of Technology**, Guangzhou, China   
   B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
@@ -28,7 +28,7 @@ I aspire to explore a broader range of fields in the future.
   Main Courses: Great Ideas of Computer Architecture (Machine Structures), Computational Structures in Data Science, Optimization Models in Engineering.
 
 
-## Research Experience
+## Research Experiences
 
 - **Research Student at South China University of Technology(11/2022 - ongoing)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
@@ -53,7 +53,7 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 - **Language:**
   English, Madarian(Native), Cantonese 
 
-## Awards
+## Selected Awards
 
 - South China University of Technology Academic Scholarship, 2023 (&yen;20,000)
 - Merit Student Award, South China University of Technology, 2023
