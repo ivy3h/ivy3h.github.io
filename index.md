@@ -30,12 +30,12 @@ I aspire to explore a broader range of fields in the future.
 
 ## Research Experience
 
-- **Research Student at South China University of Technology(11/2022 - ongoing)**
-  Topics: Continual Federated Learning for Industrial Edge Systems  
+- **Research Student at South China University of Technology(11/2022 - ongoing)**  
+Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
-- **Research Student at McGill University(09/2022 - 7/2023)**
-  Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimensional Materials  
+- **Research Student at McGill University(09/2022 - 7/2023)**  
+Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimensional Materials  
   Advisor: [Changhong Cao](https://www.mcgill.ca/mecheng/changhong-cao)
 
 
