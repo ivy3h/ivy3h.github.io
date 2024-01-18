@@ -4,20 +4,65 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third-year undergraduate student at [Shien-Ming Wu School of Intelligent Engineering](http://www2.scut.edu.cn/wusie/main.htm), [South China University of Technology](https://www.scut.edu.cn/new/).
+My undergraduate major, Intelligent Manufacturing Engineering, is an interdisciplinary field that spans Mechanical Engineering, Computer Science, Electronic Engineering, and related disciplines.
+Through my academic coursework and research exploration within my major, I've discovered a deep passion for Computer Science.
+Currently, I am under the guidance of [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm). My research primarily focuses on Federated Learning and Continual Learning. 
+I also have a keen interest in other areas such as AI4SCI and Natural Language Processing. 
+I aspire to explore a broader range of fields in the future.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** Federated Learning, Continual Learning
 
-## News
+## Education Experience
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **South China University of Technology**, Guangzhou, China   
+  B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
+  GPA: 3.92/4.00, Ranking: 1/45  
+  Main Courses: Design and Manufacturing, Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, etc.
 
-{% include_relative _includes/publications.md %}
+- **University of California, Berkeley**, Berkeley, US    
+  Exchange Student, 08/2023 - 12/2023  
+  Main Courses: Great Ideas of Computer Architecture (Machine Structures), Computational Structures in Data Science, Optimization Models in Engineering.
 
-{% include_relative _includes/services.md %}
+
+## Research Experience
+
+- **Research Student at South China University of Technology(11/2022 - ongoing)**
+  Topics: Continual Federated Learning for Industrial Edge Systems  
+  Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
+
+- **Research Student at McGill University(09/2022 - 7/2023)**
+  Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimensional Materials  
+  Advisor: [Changhong Cao](https://www.mcgill.ca/mecheng/changhong-cao)
+
+
+[comment]: <## News **[Nov.2023]**>
+
+## Publications
+
+
+
+## Skills
+- **Programming Language:**
+  Python, MATLAB, C 
+- **Tool:**
+  NumPy, PyTorch, Git, LaTeX
+- **Language:**
+  English, Madarian(Native), Cantonese 
+
+## Awards
+
+- South China University of Technology Academic Scholarship, 2023 (&yen;20,000)
+- Merit Student Award, South China University of Technology, 2023
+- South China University of Technology Academic Scholarship, 2022 (&yen;20,000)
+- Excellence Group Donated Scholarship, 2022 (&yen;20,000)
+- Merit Student Award, South China University of Technology, 2022
+
+## Miscs
+
+- I've been playing the Guzheng, a traditional Chinese instrument, for eight years and the guitar for two. Since elementary school, I've been teaching myself to paint and have created many anime-style artworks.
+- I enjoy spending time alone in a coffee shop, reading a book, or working independently. I also love capturing everyday moments through photography.
+
