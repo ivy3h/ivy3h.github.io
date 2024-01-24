@@ -61,6 +61,12 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 - Excellence Group Donated Scholarship, 2022 (&yen;20,000)
 - Merit Student Award, South China University of Technology, 2022
 
+## Teaching
+
+- Introduction to Dynamics and Vibration, Undergraduate Course, 2023 Spring
+
+
+
 ## Miscs
 
 - I've been playing the Guzheng, a traditional Chinese instrument, for eight years and the guitar for two. Since elementary school, I've been teaching myself to paint and have created many anime-style artworks.
