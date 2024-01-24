@@ -42,7 +42,7 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 [comment]: <## News **[Nov.2023]**>
 
 ## Publications
-
+(* means corresponding author)
 
 
 ## Skills
