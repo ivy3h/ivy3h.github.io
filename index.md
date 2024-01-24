@@ -64,15 +64,14 @@ _Crystals (under review)_
 
 ## Selected Awards
 
-- South China University of Technology Academic Scholarship, 2023 (&yen;20,000)
+- South China University of Technology Academic Scholarship, 2023  
 - Merit Student Award, South China University of Technology, 2023
-- South China University of Technology Academic Scholarship, 2022 (&yen;20,000)
-- Excellence Group Donated Scholarship, 2022 (&yen;20,000)
+- South China University of Technology Academic Scholarship, 2022   
+- Excellence Group Donated Scholarship, 2022  
 - Merit Student Award, South China University of Technology, 2022
 
-## Teaching
 
-- Introduction to Dynamics and Vibration (With Prof. [Shaofeng Lu](https://lushaofeng.github.io/about/); Undergraduate Course, 2024 Spring)
+
 
 ## Miscs
 
