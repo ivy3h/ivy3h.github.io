@@ -42,7 +42,6 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 [comment]: <## News **[Nov.2023]**>
 
 ## Publications
-(* means corresponding author)
 
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
 Jiao Chen, **Jiayi He**, Jianhua Tang*, Weihua Li  
@@ -52,8 +51,7 @@ Transactions on Network Science and Engineering (under review)
 **Jiayi He**, Wenqi Ji, Zhuorui Hu, Jiaying Xiao, Changlin Li, Hongxi He, Ximing Wang, Jiawen Xu, Yuxuan Gong, Nanlong Sun  
 Crystals (under review)
 
-
-
+(* means corresponding author)
 
 
 ## Skills
