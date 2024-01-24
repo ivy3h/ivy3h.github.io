@@ -63,7 +63,7 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 
 ## Teaching
 
-- Introduction to Dynamics and Vibration (With Prof. [Shaofeng Lu](https://lushaofeng.github.io/about/); For Undergraduate Students, Spring, 2023)
+- Introduction to Dynamics and Vibration (With Prof. [Shaofeng Lu](https://lushaofeng.github.io/about/); Undergraduate Course, 2023 Spring)
 
 ## Miscs
 
