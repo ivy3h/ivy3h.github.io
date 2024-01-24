@@ -30,11 +30,11 @@ I aspire to explore a broader range of fields in the future.
 
 ## Research Experiences
 
-- **Research Student at South China University of Technology(11/2022 - ongoing)**  
+- **Research Student, South China University of Technology(11/2022 - ongoing)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
-- **Research Student at McGill University(09/2022 - 7/2023)**  
+- **Research Student, McGill University(09/2022 - 7/2023)**  
 Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimensional Materials  
   Advisor: [Changhong Cao](https://www.mcgill.ca/mecheng/changhong-cao)
 
@@ -45,11 +45,11 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
 Jiao Chen, **Jiayi He**, Jianhua Tang*, Weihua Li  
-*Transactions on Network Science and Engineering (under review)*
+_Transactions on Network Science and Engineering (under review)_
 
 - **A Review of Mechanical Characterizations Techniques for Thin Films beyond Two-dimensional Materials**  
 __Jiayi He*__, Wenqi Ji, Zhuorui Hu, Jiaying Xiao, Changlin Li, Hongxi He, Ximing Wang, Jiawen Xu, Yuxuan Gong, Nanlong Sun  
-*Crystals (under review)*
+_Crystals (under review)_
 
 (* means corresponding author)
 
