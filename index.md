@@ -92,17 +92,25 @@ _Crystals (under review)_
   <div class="gallery-item">
     <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
   </div>
+  <div class="gallery-item">
+    <img src="../assets/img/gallery4.jpg" alt="Gallery 4">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/gallery5.jpg" alt="Gallery 5">
+  </div>
 </div>
 
 <style>
   .gallery-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 20px;
   }
 
   .gallery-item {
-    flex-basis: calc(33.33% - 10px); /* Adjust width based on your needs */
+    flex-basis: calc(20% - 10px); /* Adjust width based on your needs */
+    margin-bottom: 20px;
   }
 
   .gallery-item img {
