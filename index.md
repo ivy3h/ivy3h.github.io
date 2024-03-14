@@ -86,7 +86,7 @@ _Crystals (under review)_
 
 ## Gallery
 
-Sunset-collector
+Sunset-collector :)
 
 <div class="gallery-container">
   <div class="gallery-item">
