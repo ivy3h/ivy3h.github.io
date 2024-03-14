@@ -82,7 +82,7 @@ _Crystals (under review)_
 
 # Gallery
 
-![Gallery 1](../assets/img/gallery1.jpg)
-![Gallery 2](../assets/img/gallery2.jpg)
-![Gallery 3](../assets/img/gallery3.jpg)
+![Gallery 1](./assets/img/gallery1.jpg)
+![Gallery 2](./assets/img/gallery2.jpg)
+![Gallery 3](./assets/img/gallery3.jpg)
 
