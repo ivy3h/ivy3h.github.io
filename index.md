@@ -44,7 +44,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang*, Weihua Li
 _Transactions on Network Science and Engineering (under review)_
 
 - **A Review of Mechanical Characterizations Techniques for Thin Films beyond Two-dimensional Materials**  
-Jiayi He, Wenqi Ji, Zhuorui Hu, Jiaying Xiao, Changlin Li, Hongxi He, Ximing Wang, Jiawen Xu, Yuxuan Gong, Nanlong Sun, __*Changhong Cao*__  
+**Jiayi He**, Wenqi Ji, Zhuorui Hu, Jiaying Xiao, Changlin Li, Hongxi He, Ximing Wang, Jiawen Xu, Yuxuan Gong, Nanlong Sun, Changhong Cao* 
 _Crystals (under review)_
 
 (* means corresponding author)
@@ -81,6 +81,7 @@ _Crystals (under review)_
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
+
 ## Gallery
 
 <div class="gallery-container">
@@ -114,7 +115,7 @@ _Crystals (under review)_
   }
 
   .gallery-item {
-    flex-basis: calc(40% - 10px); /* Adjust width based on your needs */
+    flex-basis: calc(40% - 10px);
   }
 
   .gallery-item img {
