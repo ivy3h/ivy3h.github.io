@@ -91,9 +91,6 @@ _Crystals (under review)_
     <div class="gallery-item">
       <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
     </div>
-    <div class="gallery-item">
-      <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
-    </div>
   </div>
   <div class="gallery-row">
     <div class="gallery-item">
