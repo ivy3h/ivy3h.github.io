@@ -93,10 +93,10 @@ Sunset-collector
     <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
+    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
+    <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
   </div>
 </div>
 
