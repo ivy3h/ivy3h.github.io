@@ -86,42 +86,49 @@ _Crystals (under review)_
 
 ## Gallery
 
+Sunset-collector
+
 <div class="gallery-container">
-  <div class="gallery-row">
-    <div class="gallery-item">
-      <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
-    </div>
-    <div class="gallery-item">
-      <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
-    </div>
+  <div class="gallery-item">
+    <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
   </div>
-  <div class="gallery-row">
-    <div class="gallery-item">
+  <div class="gallery-item">
+    <div class="vertical-stack">
       <img src="../assets/img/gallery4.jpg" alt="Gallery 4">
-    </div>
-    <div class="gallery-item">
       <img src="../assets/img/gallery5.jpg" alt="Gallery 5">
     </div>
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
   </div>
 </div>
 
 <style>
   .gallery-container {
     margin-top: 20px;
-  }
-
-  .gallery-row {
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
+    flex-direction: column;
   }
 
   .gallery-item {
-    flex-basis: calc(45% - 20px);
+    text-align: center;
+    margin-bottom: 20px;
   }
 
   .gallery-item img {
     max-width: 100%;
     height: auto;
   }
+
+  .vertical-stack {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .caption {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
 </style>
+
