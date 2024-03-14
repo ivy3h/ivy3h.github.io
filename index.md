@@ -106,29 +106,21 @@ Sunset-collector
 <style>
   .gallery-container {
     margin-top: 20px;
+  }
+
+  .gallery-row {
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
   }
 
   .gallery-item {
-    text-align: center;
-    margin-bottom: 20px;
+    flex-basis: calc(40% - 10px); /* Adjust width based on your needs */
   }
 
   .gallery-item img {
     max-width: 100%;
     height: auto;
-  }
-
-  .vertical-stack {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .caption {
-    margin-top: 10px;
-    font-size: 14px;
-    color: #666;
   }
 </style>
 
