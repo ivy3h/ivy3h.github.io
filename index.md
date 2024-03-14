@@ -76,7 +76,7 @@ _Crystals (under review)_
 
 - Am I a prime number?
 
-# Correspondence
+## Correspondence
 
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
