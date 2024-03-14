@@ -14,7 +14,7 @@ I aspire to explore a broader range of fields in the future.
 
 ## Research Interests
 
-- **Machine Learning:** Continual Learning, Federated Learning
+- **Machine Learning:** Continual Learning
 
 ## Education Experiences
 
@@ -22,11 +22,7 @@ I aspire to explore a broader range of fields in the future.
   B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
   GPA: 3.92/4.00, Ranking: 1/45  
   Main Courses: Design and Manufacturing, Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, etc.
-
-- **University of California, Berkeley**, Berkeley, US    
-  Exchange Student, 08/2023 - 12/2023  
-  Main Courses: Great Ideas of Computer Architecture (Machine Structures), Computational Structures in Data Science, Optimization Models in Engineering.
-
+  
 
 ## Research Experiences
 
@@ -53,14 +49,19 @@ _Crystals (under review)_
 
 (* means corresponding author)
 
+## Academic Experiences
+- **University of California, Berkeley**, Berkeley, US    
+  Exchange Student, 08/2023 - 12/2023  
+  Main Courses: Great Ideas of Computer Architecture (Machine Structures), Computational Structures in Data Science, Optimization Models in Engineering.
+
 
 ## Skills
 - **Programming Language:**
-  Python, MATLAB, C 
+  Python, C, and MATLAB
 - **Tool:**
-  NumPy, PyTorch, Git, LaTeX
+  PyTorch, Git, Numpy, and LaTeX
 - **Language:**
-  English, Madarian(Native), Cantonese 
+  Mandarin (Native), Cantonese, and English (TOEFL: 102 - Speaking: 24, Writing: 26)
 
 ## Selected Awards
 
