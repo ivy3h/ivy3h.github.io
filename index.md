@@ -80,37 +80,43 @@ _Crystals (under review)_
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
-# Gallery
+## Gallery
 
 <div class="gallery-container">
-  <div class="gallery-item">
-    <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
+  <div class="gallery-row">
+    <div class="gallery-item">
+      <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
+    </div>
+    <div class="gallery-item">
+      <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
+    </div>
+    <div class="gallery-item">
+      <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
+    </div>
   </div>
-  <div class="gallery-item">
-    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/gallery4.jpg" alt="Gallery 4">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/gallery5.jpg" alt="Gallery 5">
+  <div class="gallery-row">
+    <div class="gallery-item">
+      <img src="../assets/img/gallery4.jpg" alt="Gallery 4">
+    </div>
+    <div class="gallery-item">
+      <img src="../assets/img/gallery5.jpg" alt="Gallery 5">
+    </div>
   </div>
 </div>
 
 <style>
   .gallery-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
     margin-top: 20px;
   }
 
-  .gallery-item {
-    flex-basis: calc(20% - 10px); /* Adjust width based on your needs */
+  .gallery-row {
+    display: flex;
+    justify-content: space-between;
     margin-bottom: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(40% - 10px); /* Adjust width based on your needs */
   }
 
   .gallery-item img {
