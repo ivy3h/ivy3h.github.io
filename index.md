@@ -75,11 +75,12 @@ _Crystals (under review)_
 
 ## Miscs
 
-- I've been playing the Guzheng, a traditional Chinese instrument, for eight years and the guitar for two. Since elementary school, I've been teaching myself to paint and have created many anime-style artworks.
-- I enjoy spending time alone in a coffee shop, reading a book, or working independently.
+- Am I a prime number?
 
 # Correspondence
 
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
+
+
 
