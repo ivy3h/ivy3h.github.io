@@ -93,29 +93,22 @@ Sunset-collector
     <img src="../assets/img/gallery1.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <div class="vertical-stack">
-      <img src="../assets/img/gallery4.jpg" alt="Gallery 4">
-      <img src="../assets/img/gallery5.jpg" alt="Gallery 5">
-    </div>
+    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/gallery2.jpg" alt="Gallery 2">
+    <img src="../assets/img/gallery3.jpg" alt="Gallery 3">
   </div>
 </div>
 
 <style>
   .gallery-container {
+    display: flex;
+    justify-content: space-between;
     margin-top: 20px;
   }
 
-  .gallery-row {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
-  }
-
   .gallery-item {
-    flex-basis: calc(40% - 10px); /* Adjust width based on your needs */
+    flex-basis: calc(33.33% - 10px);
   }
 
   .gallery-item img {
@@ -123,3 +116,4 @@ Sunset-collector
     height: auto;
   }
 </style>
+
