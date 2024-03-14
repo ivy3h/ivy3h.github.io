@@ -71,8 +71,6 @@ _Crystals (under review)_
 - Merit Student Award, South China University of Technology, 2022
 
 
-
-
 ## Miscs
 
 - Am I a prime number?
@@ -82,5 +80,9 @@ _Crystals (under review)_
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
+# Gallery
 
+![Gallery 1](../assets/img/gallery1.jpg)
+![Gallery 2](../assets/img/gallery2.jpg)
+![Gallery 3](../assets/img/gallery3.jpg)
 
