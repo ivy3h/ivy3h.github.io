@@ -82,7 +82,31 @@ _Crystals (under review)_
 
 # Gallery
 
-![Gallery 1](./assets/img/gallery1.jpg)
-![Gallery 2](./assets/img/gallery2.jpg)
-![Gallery 3](./assets/img/gallery3.jpg)
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="../img/gallery1.jpg" alt="Gallery 1">
+  </div>
+  <div class="gallery-item">
+    <img src="../img/gallery2.jpg" alt="Gallery 2">
+  </div>
+  <div class="gallery-item">
+    <img src="../img/gallery3.jpg" alt="Gallery 3">
+  </div>
+</div>
 
+<style>
+  .gallery-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(33.33% - 10px); /* Adjust width based on your needs */
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
