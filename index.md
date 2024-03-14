@@ -117,7 +117,7 @@ _Crystals (under review)_
   }
 
   .gallery-item {
-    flex-basis: calc(40% - 10px);
+    flex-basis: calc(45% - 20px);
   }
 
   .gallery-item img {
