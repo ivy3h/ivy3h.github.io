@@ -62,7 +62,7 @@ _Crystals (under review)_
 - **Tool:**
   PyTorch, Git, Numpy, and LaTeX
 - **Language:**
-  Mandarin (Native), Cantonese, and English (TOEFL: 102 - Speaking: 24, Writing: 26)
+  Mandarin (Native), Cantonese, and English 
 
 ## Selected Awards
 
