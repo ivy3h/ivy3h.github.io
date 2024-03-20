@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate student at [Shien-Ming Wu School of Intelligent Engineering](http://www2.scut.edu.cn/wusie_en/main.htm), [South China University of Technology](https://www.scut.edu.cn/en/), majoring in Intelligent Manufacturing Engineering.
-I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). 
+I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), majoring in Intelligent Manufacturing Engineering.
+I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
 My research primarily focuses on Continual Learning now. 
 I also have a keen interest in other areas such as AI4SCI and Natural Language Processing and aspire to explore a broader range of fields in the future.
 
