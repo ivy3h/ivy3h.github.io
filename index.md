@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), majoring in Intelligent Manufacturing Engineering.
-I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
-My research primarily focuses on Continual Learning now. 
-I also have a keen interest in other areas such as AI4SCI and natural language processing and aspire to explore a broader range of fields in the future.
+Hi there, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/).  
+My research primarily focuses on Continual Learning and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
+
+I also have a keen interest in other areas such as AI4SCI and aspire to explore a broader range of fields in the future.
 
 
 ## Research Interests
@@ -19,7 +19,7 @@ I also have a keen interest in other areas such as AI4SCI and natural language p
 - **South China University of Technology**, Guangzhou, China   
   B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
   GPA: 3.92/4.00, Ranking: 1/45  
-  Main Courses: Design and Manufacturing, Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, etc.
+  Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, etc.
   
 
 ## Research Experiences
