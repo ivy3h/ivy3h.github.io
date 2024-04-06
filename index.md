@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-Hi there, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/).  
-My research primarily focuses on Continual Learning and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
+Hi there! I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/).  
+My research primarily focuses on Natural Language Processing and Continual Learning now. I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
 
 I also have a keen interest in other areas such as AI4SCI and aspire to explore a broader range of fields in the future.
 
 
 ## Research Interests
 
+- **Artificial Intelligence:** Natural Language Processing
 - **Machine Learning:** Continual Learning
 
 ## Education Experiences
@@ -41,9 +42,6 @@ Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimens
 Jiao Chen, **Jiayi He**, Jianhua Tang*, Weihua Li  
 _Transactions on Network Science and Engineering (under review)_
 
-- **A Review of Mechanical Characterizations Techniques for Thin Films beyond Two-dimensional Materials**  
-**Jiayi He**, Wenqi Ji, Zhuorui Hu, Jiaying Xiao, Changlin Li, Hongxi He, Ximing Wang, Jiawen Xu, Yuxuan Gong, Nanlong Sun, Changhong Cao* 
-_Crystals (under review)_
 
 (* means corresponding author)
 
