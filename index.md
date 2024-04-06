@@ -29,9 +29,6 @@ I also have a keen interest in other areas such as AI4SCI and aspire to explore 
 Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
-- **Research Student, McGill University(09/2022 - 7/2023)**  
-Topics: Mechanical Characterizations Techniques for Thin Films beyond Two-Dimensional Materials  
-  Advisor: [Changhong Cao](https://www.mcgill.ca/mecheng/changhong-cao)
 
 
 [comment]: <## News **[Nov.2023]**>
