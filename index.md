@@ -27,7 +27,7 @@ I also have a keen interest in other areas such as AI4SCI and aspire to explore 
 ## Research Experiences
 
 - **Research Intern, RenAI Lab(04/2024 - ongoing)**  
-Topics: Self-correction of Large Language Models 
+Topics: Self-correction of Large Language Models  
   Advisor: [Yi Ren Fung](https://yrf1.github.io/)
 
 - **Research Student, South China University of Technology(11/2022 - ongoing)**  
