@@ -6,8 +6,9 @@ layout: homepage
 
 Hi there! I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/).  
 My research primarily focuses on Natural Language Processing and Continual Learning now. I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
+Now I am working as a research intern in RenAI Lab, focusing on Large Language Models Self-correction, advised by Prof. [Yi Ren Fung](https://yrf1.github.io/).
 
-I also have a keen interest in other areas such as AI4SCI and aspire to explore a broader range of fields in the future.
+I also have a keen interest in other areas such as AI4SCI and aspire to explore a broader range of fields in the future!
 
 
 ## Research Interests
@@ -24,6 +25,10 @@ I also have a keen interest in other areas such as AI4SCI and aspire to explore 
   
 
 ## Research Experiences
+
+- **Research Student, South China University of Technology(11/2022 - ongoing)**  
+Topics: Self-correction of Large Language Models 
+  Advisor: [Yi Ren Fung](https://yrf1.github.io/)
 
 - **Research Student, South China University of Technology(11/2022 - ongoing)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
