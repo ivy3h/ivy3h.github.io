@@ -71,7 +71,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _(under review)_
 - Merit Student Award, South China University of Technology, 2022
 
 ## Teaching 
-- **Introduction to Dynamics and Vibration**, 2024 Spring
+- **Introduction to Dynamics and Vibration**, 2024 Spring  
   South China University of Technology, Undergraduate Course
 
 ## Miscs
