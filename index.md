@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/). My research primarily focuses on Natural Language Processing and Continual Learning now. I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
+Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/). My research primarily focuses on Natural Language Processing and Continual Learning now. I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).  
 
 Now I am working as a research intern in RenAI Lab, focusing on Large Language Models Self-correction, advised by Prof. [Yi Ren Fung](https://yrf1.github.io/).
 
@@ -20,8 +20,8 @@ I also have a keen interest in other areas such as AI4SCI and aspire to explore 
 
 - **South China University of Technology**, Guangzhou, China   
   B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
-  GPA: 3.92/4.00, Ranking: 1/45  
-  Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, etc.
+  GPA: 3.92/4.00   
+  Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, Computer Networks, etc.
   
 
 ## Research Experiences
@@ -41,11 +41,10 @@ Topics: Continual Federated Learning for Industrial Edge Systems
 ## Publications
 
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
-Jiao Chen, **Jiayi He**, Jianhua Tang*, Weihua Li  
-_Transactions on Network Science and Engineering (under review)_
+Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _(under review)_
 
 
-(* means corresponding author)
+(* means equal contribution)
 
 
 ## Academic Experiences
@@ -71,6 +70,9 @@ _Transactions on Network Science and Engineering (under review)_
 - Excellence Group Donated Scholarship, 2022  
 - Merit Student Award, South China University of Technology, 2022
 
+## Teaching 
+- **Introduction to Dynamics and Vibration**, 2024 Spring
+  South China University of Technology, Undergraduate Course
 
 ## Miscs
 
