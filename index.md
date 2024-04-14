@@ -41,7 +41,7 @@ Topics: Continual Federated Learning for Industrial Edge Systems
 ## Publications
 
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
-Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _(under review)_
+Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 
 
 (* means equal contribution)
