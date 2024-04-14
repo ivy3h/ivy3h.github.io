@@ -50,8 +50,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 ## Academic Experiences
 
 - **University of California, Berkeley**, Berkeley, US    
-  Exchange Student, 08/2023 - 12/2023  
-  Main Courses: Great Ideas of Computer Architecture (Machine Structures), Computational Structures in Data Science, Optimization Models in Engineering.
+  Visiting Student, 08/2023 - 12/2023  
 
 
 ## Skills
