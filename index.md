@@ -8,7 +8,7 @@ Hi, I am a third-year undergraduate student at [South China University of Techno
 
 Currently, my research primarily focuses on **natural language processing**. Now I am working as a research intern in RenAI Lab, focusing on Large Language Models Self-correction, advised by Prof. [Yi R. Fung](https://yrf1.github.io/).  
 
-I am collaborative and aspire to explore a broader range of research fields in the future! 
+:star: I am collaborative and aspire to explore a broader range of research fields in the future! 
 
 
 ## Research Interests
