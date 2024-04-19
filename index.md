@@ -22,7 +22,6 @@ Currently, my research primarily focuses on **natural language processing**. Now
 - **South China University of Technology**, Guangzhou, China   
   B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
   GPA: 3.92/4.00   
-  Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, Computer Networks, etc.
   
 
 ## Research Experiences
@@ -41,9 +40,11 @@ Topics: Continual Federated Learning for Industrial Edge Systems
 
 ## Publications
 
+- **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
+**Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang _under review_
+  
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
 Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
-
 
 (* means equal contribution)
 
