@@ -11,7 +11,7 @@ Currently, my research primarily focuses on **natural language processing**. Now
 ⭐ I am collaborative and aspire to explore a broader range of research fields in the future! 
 
 
-## Research Interests
+## 🧠 Research Interests
 
 - **Artificial Intelligence:** Natural Language Processing
 - **Machine Learning:** Continual Learning
@@ -25,7 +25,7 @@ Currently, my research primarily focuses on **natural language processing**. Now
   Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, Computer Networks, etc.
   
 
-## Research Experiences
+## 🔬 Research Experiences
 
 - **Research Intern, RenAI Lab(04/2024 - ongoing)**  
 Topics: Self-correction of Large Language Models  
@@ -39,7 +39,7 @@ Topics: Continual Federated Learning for Industrial Edge Systems
 
 [comment]: <## News **[Nov.2023]**>
 
-## Publications
+## 📚 Publications
 
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
 Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
@@ -54,14 +54,6 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
   Visiting Student, 08/2023 - 12/2023  
 
 
-## Skills
-- **Programming Language:**
-  Python, C, and MATLAB
-- **Tool:**
-  PyTorch, Git, Numpy, and LaTeX
-- **Language:**
-  Mandarin (Native), Cantonese, and English 
-
 
 ## 🏆 Selected Awards
 
@@ -75,17 +67,17 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - **Introduction to Dynamics and Vibration**, 2024 Spring  
   South China University of Technology, Undergraduate Course
 
-## Miscs
+## 🎲 Miscs
 
 - Am I a prime number?
 
-## Correspondence
+## 📧 Correspondence
 
 - Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
 
-## Gallery
+## 🖼️ Gallery
 
 Sunset-collector :)
 
