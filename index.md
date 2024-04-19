@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-:smile: ## About Me
+## About Me
 
 Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). I have prior research experience in Continual Learning.
 
@@ -16,6 +16,7 @@ I am collaborative and aspire to explore a broader range of research fields in t
 - **Artificial Intelligence:** Natural Language Processing
 - **Machine Learning:** Continual Learning
 
+:mortar_board:
 ## Education Experiences
 
 - **South China University of Technology**, Guangzhou, China   
@@ -24,6 +25,7 @@ I am collaborative and aspire to explore a broader range of research fields in t
   Main Courses: Artificial Intelligence and its Applications, Data Structure and Algorithms, Applications and Analysis of Big Data in Manufacturing, Computer Networks, Computer Networks, etc.
   
 
+:scroll:
 ## Research Experiences
 
 - **Research Intern, RenAI Lab(04/2024 - ongoing)**  
@@ -61,6 +63,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - **Language:**
   Mandarin (Native), Cantonese, and English 
 
+:trophy:
 ## Selected Awards
 
 - South China University of Technology Academic Scholarship, 2023  
