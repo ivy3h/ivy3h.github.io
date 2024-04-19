@@ -74,7 +74,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 
 ## Correspondence
 
-- Email: 202164020171@mail.scut.edu.cn, jiayihe3612@gmail.com
+- Email: <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>, <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
 
