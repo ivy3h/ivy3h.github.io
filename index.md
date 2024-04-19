@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+:smile: ## About Me
 
 Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). I have prior research experience in Continual Learning.
 
@@ -69,7 +69,7 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - Excellence Group Donated Scholarship, 2022  
 - Merit Student Award, South China University of Technology, 2022
 
-## Teaching 
+## Services
 - **Introduction to Dynamics and Vibration**, 2024 Spring  
   South China University of Technology, Undergraduate Course
 
