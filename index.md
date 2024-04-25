@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). I have prior research experience in Continual Learning.
+Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), and I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).   
 
-Currently, my research focuses on **natural language processing**. Now I am working as a research intern in RenAI Lab, focusing on Large Language Models Self-correction, advised by Prof. [Yi R. Fung](https://yrf1.github.io/).  
+Currently, my research focuses on **natural language processing**. Now I am working as a research intern in RenAI Lab, focusing on Large Language Models Self-correction, advised by Prof. [Yi R. Fung](https://yrf1.github.io/). I have prior research experience in Continual Learning.  
 
 ⭐ I am collaborative and aspire to explore a broader range of research fields in the future! 
 
@@ -63,13 +63,10 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - Excellence Group Donated Scholarship, 2022  
 - Merit Student Award, South China University of Technology, 2022
 
-## Services
+## Teaching Services
 - **Introduction to Dynamics and Vibration**, 2024 Spring  
-  South China University of Technology, Undergraduate Course
+  South China University of Technology, Undergraduate Course, Teaching Assistant
 
-## Miscs
-
-- Am I a prime number?
 
 ## Correspondence
 
