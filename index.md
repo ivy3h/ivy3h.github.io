@@ -27,7 +27,7 @@ Currently, my research focuses on **natural language processing**. I am working 
 
 - **Research Intern, RenAI Lab(04/2024 - ongoing)**  
 Topics: Self-correction of Large Language Models  
-  Advisor: [Yi Ren Fung](https://yrf1.github.io/)
+  Advisor: [Yiren Fung](https://yrf1.github.io/)
 
 - **Research Student, South China University of Technology(11/2022 - ongoing)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
