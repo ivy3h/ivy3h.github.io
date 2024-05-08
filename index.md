@@ -4,21 +4,22 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).   
+Hi there, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).   
 
-Currently, my research focuses on **natural language processing** and **machine learning**. I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on large language models Self-correction reasoning.  
+Currently, my research focuses on **natural language processing** and **machine learning**. I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on large language models self-correction reasoning.  
 
-⭐ I am collaborative and aspire to explore a broader range of research fields in the future! 
+⭐ I am collaborative and interested in extending my research to other research fields such as AI4SCI in the future.
+
 
 
 ## Research Experiences
 
 - **Research Intern, University of Illinois, Urbana-Champaign(04/2024 - present)**  
-Topics: Self-correction of Large Language Models  
+Topics: Self-correction of Language Models  
   Advisor: [Yiren Fung](https://yrf1.github.io/)
 
 - **Research Intern, South China University of Technology(11/2022 - present)**  
-Topics: Continual Federated Learning for Industrial Edge Systems  
+Topics: Continual Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
 
@@ -40,15 +41,8 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 ## Selected Awards
 
 - South China University of Technology Academic Scholarship, 2023  
-- Merit Student Award, South China University of Technology, 2023
 - South China University of Technology Academic Scholarship, 2022   
 - Excellence Group Donated Scholarship, 2022  
-- Merit Student Award, South China University of Technology, 2022
-
-
-## Other Experiences
-- **University of California, Berkeley**, Berkeley, US    
-  Visiting Student, 08/2023 - 12/2023
 
   
 ## Correspondence
