@@ -25,11 +25,11 @@ Currently, my research focuses on **natural language processing**. I am working 
 
 ## Research Experiences
 
-- **Research Intern, RenAI Lab(04/2024 - ongoing)**  
+- **Research Intern, University of Illinois at Urbana Champaign(04/2024 - present)**  
 Topics: Self-correction of Large Language Models  
   Advisor: [Yiren Fung](https://yrf1.github.io/)
 
-- **Research Student, South China University of Technology(11/2022 - ongoing)**  
+- **Research Student, South China University of Technology(11/2022 - present)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
