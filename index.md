@@ -15,12 +15,6 @@ Currently, my research focuses on **natural language processing** and **machine 
 
 - **Artificial Intelligence:** Natural Language Processing
 - **Machine Learning:** Continual Learning
-
-
-## Education Experiences
-
-- **South China University of Technology**, Guangzhou, China   
-  B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
   
 
 ## Research Experiences
@@ -29,13 +23,14 @@ Currently, my research focuses on **natural language processing** and **machine 
 Topics: Self-correction of Large Language Models  
   Advisor: [Yiren Fung](https://yrf1.github.io/)
 
-- **Research Student, South China University of Technology(11/2022 - present)**  
+- **Research Intern, South China University of Technology(11/2022 - present)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
 
 
 [comment]: <## News **[Nov.2023]**>
+
 
 ## Publications
 
@@ -48,11 +43,18 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 (* means equal contribution)
 
 
-## Academic Experiences
+## Education
 
+- **South China University of Technology**, Guangzhou, China   
+  B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
+
+
+## Other Experiences
+- **Introduction to Dynamics and Vibration**, 2024 Spring  
+  South China University of Technology, Undergraduate Course, Teaching Assistant
+  
 - **University of California, Berkeley**, Berkeley, US    
   Visiting Student, 08/2023 - 12/2023  
-
 
 
 ## Selected Awards
@@ -62,11 +64,6 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - South China University of Technology Academic Scholarship, 2022   
 - Excellence Group Donated Scholarship, 2022  
 - Merit Student Award, South China University of Technology, 2022
-
-
-## Teaching Services
-- **Introduction to Dynamics and Vibration**, 2024 Spring  
-  South China University of Technology, Undergraduate Course, Teaching Assistant
 
 
 ## Correspondence
