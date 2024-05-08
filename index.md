@@ -11,12 +11,6 @@ Currently, my research focuses on **natural language processing** and **machine 
 ⭐ I am collaborative and aspire to explore a broader range of research fields in the future! 
 
 
-## Research Interests
-
-- **Artificial Intelligence:** Natural Language Processing
-- **Machine Learning:** Continual Learning
-  
-
 ## Research Experiences
 
 - **Research Intern, University of Illinois, Urbana-Champaign(04/2024 - present)**  
@@ -43,20 +37,6 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 (* means equal contribution)
 
 
-## Education
-
-- **South China University of Technology**, Guangzhou, China   
-  B.Eng, Intelligent Manufacturing Engineering, 09/2021 - 06/2025 (expected)  
-
-
-## Other Experiences
-- **Introduction to Dynamics and Vibration**, 2024 Spring  
-  South China University of Technology, Undergraduate Course, Teaching Assistant
-  
-- **University of California, Berkeley**, Berkeley, US    
-  Visiting Student, 08/2023 - 12/2023  
-
-
 ## Selected Awards
 
 - South China University of Technology Academic Scholarship, 2023  
@@ -66,6 +46,11 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - Merit Student Award, South China University of Technology, 2022
 
 
+## Other Experiences
+- **University of California, Berkeley**, Berkeley, US    
+  Visiting Student, 08/2023 - 12/2023
+
+  
 ## Correspondence
 
 - Email: <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>, <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>
