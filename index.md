@@ -6,7 +6,7 @@ layout: homepage
 
 Hi, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm).   
 
-Currently, my research focuses on **natural language processing**. I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on Large Language Models Self-correction. I also have prior research experience in Continual Learning.  
+Currently, my research focuses on **natural language processing** and **machine learning**. I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on large language models Self-correction reasoning.  
 
 ⭐ I am collaborative and aspire to explore a broader range of research fields in the future! 
 
@@ -25,11 +25,11 @@ Currently, my research focuses on **natural language processing**. I am working 
 
 ## Research Experiences
 
-- **Research Intern, University of Illinois at Urbana Champaign(04/2024 - present)**  
+- **Research Intern, RenAI Lab(04/2024 - ongoing)**  
 Topics: Self-correction of Large Language Models  
   Advisor: [Yiren Fung](https://yrf1.github.io/)
 
-- **Research Student, South China University of Technology(11/2022 - present)**  
+- **Research Student, South China University of Technology(11/2022 - ongoing)**  
 Topics: Continual Federated Learning for Industrial Edge Systems  
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
