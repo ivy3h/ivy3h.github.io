@@ -52,12 +52,13 @@ layout: homepage
 <style>
   .gallery-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; /* Center align the items */
     margin-top: 20px;
   }
 
   .gallery-item {
-    flex-basis: calc(50% - 10px);
+    flex-basis: auto; /* Adjust basis to auto */
+    margin: 0 10px; /* Adjust the margin between items */
     text-align: center; /* Center align the text */
   }
 
@@ -73,6 +74,7 @@ layout: homepage
     color: #333; /* Text color */
   }
 </style>
+
 
 
 
