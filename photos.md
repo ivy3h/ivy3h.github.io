@@ -11,6 +11,8 @@ layout: homepage
 
 ## Gallery 🌴
 
+Sunset-collector :)
+
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
@@ -78,6 +80,9 @@ layout: homepage
   }
 </style>
 
+
+
+
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/alaska1.jpg" alt="Gallery 1" id="galleryImage">
@@ -112,17 +117,6 @@ layout: homepage
     cursor: pointer;
   }
 </style>
-
-<script>
-  var currentImage = 1;
-  var totalImages = 3;
-
-  function nextImage() {
-    currentImage = (currentImage % totalImages) + 1;
-    document.getElementById('galleryImage').src = `../assets/img/alaska${currentImage}.jpg`;
-  }
-</script>
-
 
 
 
