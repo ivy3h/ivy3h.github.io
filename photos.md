@@ -11,7 +11,7 @@ layout: homepage
 
 ## Gallery 🌴
 
-Sunset-collector :)
+🌅
 
 <div class="gallery-container">
   <div class="gallery-item">
@@ -42,30 +42,41 @@ Sunset-collector :)
   }
 </style>
 
-Lakeee
+🌊
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
+    <img src="../assets/img/tahoe3.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/tahoe2.jpg" alt="Gallery 2">
+    <img src="../assets/img/tahoe1.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/tahoe3.jpg" alt="Gallery 3">
+    <img src="../assets/img/tahoe2.jpg" alt="Gallery 3">
   </div>
 </div>
 
-Quiet
+🌕
 
-<div class="gallery-container">
+<div class="gallery-alaska">
   <div class="gallery-item">
     <img src="../assets/img/alaska.jpg" alt="Gallery 1">
   </div>
-  <div class="gallery-item">
-    <img src="../assets/img/moffitt.jpg" alt="Gallery 2">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/scut.jpg" alt="Gallery 3">
-  </div>
 </div>
+
+<style>
+  .gallery-alaska {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(100% - 10px);
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
