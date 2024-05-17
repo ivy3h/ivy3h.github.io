@@ -64,11 +64,12 @@ layout: homepage
 🌕
 </div>
 
-<div class="gallery-alaska">
+<div class="gallery-alaska" style="display: flex; justify-content: center;">
   <div class="gallery-item-2">
     <img src="../assets/img/alaska.jpg" alt="Gallery 1">
   </div>
 </div>
+
 
 <style>
   .gallery-alaska {
@@ -82,7 +83,7 @@ layout: homepage
   }
 
   .gallery-item-2 img {
-    max-width: 70%;
+    max-width: 50%;
     height: auto;
   }
 </style>
