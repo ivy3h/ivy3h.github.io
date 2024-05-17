@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-[Back](index.md).
+[Back](index.md)
 
 ## Miscellaneous 🌟
 - I was born and raised in Guangzhou🏙️, but I have a particular fondness for Hunan and Sichuan cuisine🌶️🌶️🌶️.
