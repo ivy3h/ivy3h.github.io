@@ -39,13 +39,15 @@ layout: homepage
   }
 </style>
 
-**Tahoe Lake** - 10/2023
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
     <img src="../assets/img/tahoe2.jpg" alt="Gallery 2">
+  </div>
+  <div class="gallery-text">
+    **Tahoe Lake** - 10/2023
   </div>
 </div>
 
