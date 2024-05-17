@@ -1,8 +1,10 @@
 ---
-layout: homepage
+layout: page
 title: "Miscellaneous"
 permalink: /miscellaneous/
 ---
 
 
 ## miscellaneous
+
+
