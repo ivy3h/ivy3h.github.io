@@ -2,6 +2,11 @@
 layout: homepage
 ---
 
+## Miscellaneous
+
+
+
 ## Life Photos
 
-wuhu~
+
+
