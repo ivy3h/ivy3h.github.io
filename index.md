@@ -83,8 +83,9 @@ Sunset-collector :)
   }
 </style>
 
+
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="/photos/" style="font-size: small;">Click here</a>
+  <a href="/photos/" style="font-size: small;">Click here for more photos</a>
 </div>
