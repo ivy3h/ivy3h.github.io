@@ -35,7 +35,7 @@ layout: homepage
   }
 
   .gallery-item {
-    flex-basis: calc(33.33% - 10px);
+    flex-basis: calc(30% - 10px);
   }
 
   .gallery-item img {
