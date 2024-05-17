@@ -78,43 +78,51 @@ layout: homepage
   }
 </style>
 
-
-## Gallery 🌴
-
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
-  </div>
-  <div class="gallery-item">
-    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
+    <img src="../assets/img/alaska1.jpg" alt="Gallery 1" id="galleryImage">
+    <div class="image-overlay" onclick="nextImage()">Click to Change</div>
   </div>
 </div>
 
 <style>
   .gallery-container {
     display: flex;
-    flex-wrap: wrap; /* 让项目换行 */
-    justify-content: space-between;
-    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* 适当调整高度 */
   }
 
   .gallery-item {
-    flex-basis: calc(50% - 10px); /* 每行两个图片，宽度为一半 */
-    margin-bottom: 20px; /* 间距 */
-  }
-
-  .gallery-item:nth-child(even) {
-    margin-left: calc(25% - 5px); /* 第二张图片左移 */
-    margin-right: calc(25% - 5px); /* 第二张图片右移 */
+    position: relative;
   }
 
   .gallery-item img {
     max-width: 100%;
     height: auto;
   }
+
+  .image-overlay {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 8px 16px;
+    cursor: pointer;
+  }
 </style>
+
+<script>
+  var currentImage = 1;
+  var totalImages = 3;
+
+  function nextImage() {
+    currentImage = (currentImage % totalImages) + 1;
+    document.getElementById('galleryImage').src = `../assets/img/alaska${currentImage}.jpg`;
+  }
+</script>
+
+
 
 
