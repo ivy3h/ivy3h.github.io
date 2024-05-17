@@ -83,12 +83,10 @@ Sunset-collector :)
   }
 </style>
 
-
----
-
-<div style="text-align: margin-top: 20px;">
-  <a href="/_pages/photos/" style="font-size: small;">For more photos</a>
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/photos/" style="font-size: small;">For more photos</a>
 </div>
-<div style="text-align: margin-top: 20px;">
-  <a href="/_pages/miscellaneous/" style="font-size: small;">Miscellaneous</a>
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/miscellaneous/" style="font-size: small;">Miscellaneous</a>
 </div>
+
