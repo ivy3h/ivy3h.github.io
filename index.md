@@ -86,6 +86,10 @@ Sunset-collector :)
 
 ---
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="margin-top: 20px;">
   <a href="/photos/" style="font-size: small;">Click here for more photos</a>
+</div>
+
+<div style="margin-top: 20px;">
+  <a href="/miscellaneous/" style="font-size: small;">Miscellaneous to de-stress</a>
 </div>
