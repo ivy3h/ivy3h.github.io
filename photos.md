@@ -12,9 +12,8 @@ layout: homepage
 ## Gallery 🌴
 
 <div style="text-align:center;">
-🌅
+🌅<br>
 </div>
-
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
@@ -45,9 +44,8 @@ layout: homepage
 </style>
 
 <div style="text-align:center;">
-<br>🌊
+<br>🌊<br>
 </div>
-
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe3.jpg" alt="Gallery 1">
@@ -61,9 +59,8 @@ layout: homepage
 </div>
 
 <div style="text-align:center;">
-<br>🌕
+<br>🌕<br>
 </div>
-
 <div style="text-align: center;">
   <img src="../assets/img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
 </div>
