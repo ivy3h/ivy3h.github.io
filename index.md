@@ -87,8 +87,8 @@ Sunset-collector :)
 ---
 
 <div style="text-align: margin-top: 20px;">
-  <a href="/photos/" style="font-size: small;">For more photos</a>
+  <a href="/_pages/photos/" style="font-size: small;">For more photos</a>
 </div>
 <div style="text-align: margin-top: 20px;">
-  <a href="/miscellaneous/" style="font-size: small;">Miscellaneous</a>
+  <a href="/_pages/miscellaneous/" style="font-size: small;">Miscellaneous</a>
 </div>
