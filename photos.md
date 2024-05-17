@@ -64,11 +64,10 @@ layout: homepage
 <br>🌕
 </div>
 
-<div class="gallery-alaska" style="display: flex; justify-content: center;">
-  <div class="gallery-item-2">
-    <img src="../assets/img/alaska.jpg" alt="Gallery 1">
-  </div>
+<div style="text-align: center;">
+  <img src="../assets/img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
 </div>
+
 
 
 <style>
