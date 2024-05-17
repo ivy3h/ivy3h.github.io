@@ -10,7 +10,7 @@ layout: homepage
 
 ## Gallery
 
-Tahoe Lake - 10/2023
+**Tahoe Lake** - 10/2023
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
