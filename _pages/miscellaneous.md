@@ -5,6 +5,6 @@ permalink: /miscellaneous/
 ---
 
 
-## miscellaneous
+## Miscellaneous
 
-
+hi
