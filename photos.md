@@ -45,7 +45,7 @@ layout: homepage
 </style>
 
 <div style="text-align:center;">
-🌊
+<br>🌊
 </div>
 
 <div class="gallery-container">
@@ -61,7 +61,7 @@ layout: homepage
 </div>
 
 <div style="text-align:center;">
-🌕
+<br>🌕
 </div>
 
 <div class="gallery-alaska" style="display: flex; justify-content: center;">
