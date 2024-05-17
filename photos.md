@@ -79,4 +79,39 @@ layout: homepage
 
 
 
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
+  </div>
+</div>
+
+<style>
+  .gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(50% - 10px); /* 每一列占据 50% 宽度 */
+    margin-bottom: 20px; /* 为了制造间隔 */
+  }
+
+  .gallery-item:nth-child(odd) {
+    align-self: flex-end; /* 奇数项图片在底部对齐 */
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 
