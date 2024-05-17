@@ -84,4 +84,4 @@ Sunset-collector :)
 </style>
 
 
-[More photos & miscellaneous](photos.md).
+[Miscellaneous & more photos](photos.md).
