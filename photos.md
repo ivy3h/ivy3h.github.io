@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: "Life Photos"
 permalink: /photos/
 ---
