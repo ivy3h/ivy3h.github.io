@@ -10,7 +10,7 @@ layout: homepage
 
 ## Gallery
 
-Tahoe Lake 10/2023
+Tahoe Lake - 10/2023
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
@@ -28,7 +28,7 @@ Tahoe Lake 10/2023
   }
 
   .gallery-item {
-    flex-basis: calc(33.33% - 10px);
+    flex-basis: calc(50% - 10px);
     text-align: center; /* Center align the text */
   }
 
