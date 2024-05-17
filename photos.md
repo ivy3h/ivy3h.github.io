@@ -65,7 +65,7 @@ layout: homepage
 </div>
 
 <div class="gallery-alaska">
-  <div class="gallery-item">
+  <div class="gallery-item-2">
     <img src="../assets/img/alaska.jpg" alt="Gallery 1">
   </div>
 </div>
@@ -77,11 +77,11 @@ layout: homepage
     margin-top: 20px;
   }
 
-  .gallery-item {
+  .gallery-item-2 {
     flex-basis: calc(100% - 10px);
   }
 
-  .gallery-item img {
+  .gallery-item-2 img {
     max-width: 70%;
     height: auto;
   }
