@@ -10,14 +10,13 @@ layout: homepage
 
 ## Gallery
 
+Tahoe Lake 10/2023
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
-    <figcaption>Alaska </figcaption>
   </div>
   <div class="gallery-item">
     <img src="../assets/img/tahoe2.jpg" alt="Gallery 2">
-    <figcaption>Alaska Image 2</figcaption>
   </div>
 </div>
 
