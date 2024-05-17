@@ -8,7 +8,37 @@ layout: homepage
 - I love Black Tea Espresso Fusion☕.
 
 
-## Gallery
+## Gallery 🌴
+
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
+  </div>
+</div>
+
+<style>
+  .gallery-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(33.33% - 10px);
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
 
 **Tahoe Lake** - 10/2023
 <div class="gallery-container">
