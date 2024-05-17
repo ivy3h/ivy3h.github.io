@@ -11,7 +11,9 @@ layout: homepage
 
 ## Gallery 🌴
 
+<div style="text-align:center;">
 🌅
+</div>
 
 <div class="gallery-container">
   <div class="gallery-item">
@@ -42,7 +44,9 @@ layout: homepage
   }
 </style>
 
+<div style="text-align:center;">
 🌊
+</div>
 
 <div class="gallery-container">
   <div class="gallery-item">
@@ -56,7 +60,9 @@ layout: homepage
   </div>
 </div>
 
+<div style="text-align:center;">
 🌕
+</div>
 
 <div class="gallery-alaska">
   <div class="gallery-item">
