@@ -35,7 +35,7 @@ layout: homepage
   }
 
   .gallery-item {
-    flex-basis: calc(30% - 10px);
+    flex-basis: calc(33.33% - 10px);
   }
 
   .gallery-item img {
@@ -78,11 +78,11 @@ layout: homepage
   }
 
   .gallery-item {
-    flex-basis: calc(70% - 10px);
+    flex-basis: calc(100% - 10px);
   }
 
   .gallery-item img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
   }
 </style>
