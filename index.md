@@ -84,7 +84,4 @@ Sunset-collector :)
 </style>
 
 
-<div style="text-align: margin-top: 20px;">
-  <a href="/photos/" style="font-size: small;">More photos & miscellaneous</a>
-</div>
-For more photos, please visit my [photo gallery](photos.md).
+[More photos & miscellaneous](photos.md).
