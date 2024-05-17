@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Miscellaneous
+## Miscellaneous 🌟
 - I was born and raised in Guangzhou🏙️, but I have a particular fondness for Hunan and Sichuan cuisine🌶️🌶️🌶️.
 - I enjoy playing the koto and guitar🎸, and I also enjoy drawing comics🎨.
 - I love Black Tea Espresso Fusion☕.
@@ -39,7 +39,6 @@ layout: homepage
   }
 </style>
 
-
 **Tahoe Lake** - 10/2023
 <div class="gallery-container">
   <div class="gallery-item">
@@ -64,7 +63,8 @@ layout: homepage
 
   .gallery-item img {
     max-width: 100%;
-    height: auto;
+    width: 200px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
   }
 
   .gallery-item figcaption {
