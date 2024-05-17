@@ -78,34 +78,36 @@ layout: homepage
 </style>
 
 
+## Gallery 🌴
 
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
+    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
+    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
   </div>
 </div>
 
 <style>
   .gallery-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* 让项目换行 */
     justify-content: space-between;
     margin-top: 20px;
   }
 
   .gallery-item {
-    flex-basis: calc(50% - 10px); /* 每一列占据 50% 宽度 */
-    margin-bottom: 20px; /* 为了制造间隔 */
+    flex-basis: calc(50% - 10px); /* 每行两个图片，宽度为一半 */
+    margin-bottom: 20px; /* 间距 */
   }
 
-  .gallery-item:nth-child(odd) {
-    align-self: flex-end; /* 奇数项图片在底部对齐 */
+  .gallery-item:nth-child(even) {
+    margin-left: calc(25% - 5px); /* 第二张图片左移 */
+    margin-right: calc(25% - 5px); /* 第二张图片右移 */
   }
 
   .gallery-item img {
