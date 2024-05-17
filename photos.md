@@ -8,8 +8,42 @@ layout: homepage
 - I love Black Tea Espresso Fusion☕.
 
 
+## Gallery
 
-## Life & Travel Photos
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
+    <figcaption>Alaska </figcaption>
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/tahoe2.jpg" alt="Gallery 2">
+    <figcaption>Alaska Image 2</figcaption>
+  </div>
+</div>
+
+<style>
+  .gallery-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .gallery-item {
+    flex-basis: calc(33.33% - 10px);
+    text-align: center; /* Center align the text */
+  }
+
+  .gallery-item img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .gallery-item figcaption {
+    margin-top: 10px; /* Space between the image and the text */
+    font-size: 14px; /* Adjust font size as needed */
+    color: #333; /* Text color */
+  }
+</style>
 
 
 
