@@ -9,7 +9,7 @@ layout: homepage
 
 
 
-## Life Photos
+## Life & Travel Photos
 
 
 
