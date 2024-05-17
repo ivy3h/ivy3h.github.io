@@ -42,6 +42,8 @@ Sunset-collector :)
   }
 </style>
 
+Lakeee
+
 <div class="gallery-container">
   <div class="gallery-item">
     <img src="../assets/img/tahoe1.jpg" alt="Gallery 1">
@@ -54,4 +56,16 @@ Sunset-collector :)
   </div>
 </div>
 
+Quiet
 
+<div class="gallery-container">
+  <div class="gallery-item">
+    <img src="../assets/img/alaska.jpg" alt="Gallery 1">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/moffitt.jpg" alt="Gallery 2">
+  </div>
+  <div class="gallery-item">
+    <img src="../assets/img/scut.jpg" alt="Gallery 3">
+  </div>
+</div>
