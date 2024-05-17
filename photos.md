@@ -61,9 +61,10 @@ layout: homepage
 <div style="text-align:center;">
 <br>🌕<br>
 </div>
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 20px;">
   <img src="../assets/img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
 </div>
+
 
 
 
