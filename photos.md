@@ -78,7 +78,7 @@ layout: homepage
   }
 
   .gallery-item {
-    flex-basis: calc(100% - 10px);
+    flex-basis: calc(70% - 10px);
   }
 
   .gallery-item img {
