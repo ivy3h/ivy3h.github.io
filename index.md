@@ -49,4 +49,4 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 - Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
 
-[Miscellaneous & Gallery](photos.md).
+[Miscellaneous & Gallery](photos.md) for fun.
