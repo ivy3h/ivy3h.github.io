@@ -6,8 +6,6 @@ layout: homepage
 
 Hi there, I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). My research goal is to empower interactive AI systems with capabilities beyond the human level to assist humans effectively in real-world scenarios in sustainable and responsible ways. To achieve this goal, my recent research has been centered on the domains of **natural language processing** and **machine learning**. Currently, I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on language models self-correction reasoning. I am also collaborating with Prof. [Jiaxin Huang](https://teapot123.github.io/) in this summer.
 
-⭐ I am collaborative and interested in extending my research to other research fields in the future!
-
 
 
 ## Experiences
@@ -29,7 +27,7 @@ Topics: Continual Learning for Industrial Edge Systems
 
 - **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
 **Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu  
-  IEEE/CIC International Conference on Communications in China
+  _IEEE/CIC International Conference on Communications in China_
     
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
 Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
@@ -46,8 +44,8 @@ Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 ## Correspondence
 
 - Email: <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>, <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>
-- Address: Guangzhou International Campus South China University of Technology, 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
+- Address: 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
 
 [Miscellaneous & Gallery](photos.md) for fun.  
-[Acknowledgement](acknowledgement.md).
+[Acknowledgements](acknowledgement.md).
