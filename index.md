@@ -12,9 +12,6 @@ Hi there, I am a third-year undergraduate student at [South China University of 
 
 ## Experiences
 
-- **Research Intern, Washington University in St. Louis(06/2024 - now)**  
-  Advisor: [Jiaxin Huang](https://teapot123.github.io/)
-
 - **Research Intern, University of Illinois, Urbana-Champaign(04/2024 - now)**  
 Topics: Self-correction of Language Models  
   Advisor: [Yiren Fung](https://yrf1.github.io/)
