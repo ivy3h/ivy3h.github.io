@@ -14,11 +14,11 @@ Hi there, I am a third-year undergraduate student at [South China University of 
 
 - **Research Intern, University of Illinois, Urbana-Champaign(04/2024 - now)**  
 Topics: Self-correction of Language Models  
-  Advisor: [Yiren Fung](https://yrf1.github.io/)
+  _Advisor: [Yiren Fung](https://yrf1.github.io/)_
 
 - **Research Intern, South China University of Technology(11/2022 - now)**  
 Topics: Continual Learning for Industrial Edge Systems  
-  Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
+  _Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)_
 
 
 
@@ -28,7 +28,7 @@ Topics: Continual Learning for Industrial Edge Systems
 ## Publications
 
 - **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
-**Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu
+**Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu  
   IEEE/CIC International Conference on Communications in China
     
 - **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
