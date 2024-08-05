@@ -43,7 +43,7 @@ layout: default
 </div>
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="../img/tahoe3.jpg" alt="Gallery 1">
+    <img src="../img/Sentosa.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
     <img src="../img/tahoe1.jpg" alt="Gallery 2">
@@ -58,8 +58,6 @@ layout: default
 <div style="text-align: center; margin-top: 20px;">
   <img src="../img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
 </div>
-
-
 
 
 <style>
