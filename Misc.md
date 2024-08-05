@@ -8,6 +8,7 @@ layout: default
 
 ## Gallery 
 
+Feel the 🌅🌊🌕.. while exploring the world
 
 <div class="gallery-container">
   <div class="gallery-item">
