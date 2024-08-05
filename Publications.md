@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Publications & Preprints
 
 - **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
