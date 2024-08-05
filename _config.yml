@@ -16,14 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
  - name: "Publications"
-   link: "publications"
+   link: "Publications"
  - name: "Awards & Service"
    link: "Awards & Service"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Misc"
    link: "Misc"
  - name: "Contact"
