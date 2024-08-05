@@ -8,7 +8,6 @@ layout: default
 
 ## Gallery 
 
-<div style="text-align:center;">
 </div>
 <div class="gallery-container">
   <div class="gallery-item">
@@ -39,7 +38,6 @@ layout: default
   }
 </style>
 
-<div style="text-align:center;">
 </div>
 <div class="gallery-container">
   <div class="gallery-item">
@@ -53,7 +51,6 @@ layout: default
   </div>
 </div>
 
-<div style="text-align:center;">
 </div>
 <div style="text-align: center; margin-top: 20px;">
   <img src="../img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
