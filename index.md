@@ -23,7 +23,7 @@ I am a third-year undergraduate student at [South China University of Technology
 
 ## Publications and Preprints
 
-- **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
+- **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**  
 **Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu  
   _IEEE/CIC International Conference on Communications in China_
     
