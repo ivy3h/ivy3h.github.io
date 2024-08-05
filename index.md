@@ -21,26 +21,4 @@ I am a third-year undergraduate student at [South China University of Technology
   Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
   
 
-## Publications and Preprints
-
-- **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**  
-**Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu  
-  _IEEE/CIC International Conference on Communications in China_
-    
-- **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
-Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
-
-
-## Selected Awards
-
-- South China University of Technology Academic Scholarship, 2023  
-- South China University of Technology Academic Scholarship, 2022   
-- Excellence Group Donated Scholarship, 2022  
-
-  
-## Correspondence
-
-- Email: <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>, <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>
-- Address: 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
-
 
