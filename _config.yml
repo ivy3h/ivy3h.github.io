@@ -24,6 +24,8 @@ nav:
    link: "Awards & Service"
  - name: "Resume"
    link: "resume.pdf"
+ - Misc: "Misc"
+   link: "Misc"
  - name: "Contact"
    link: "contact"
    
