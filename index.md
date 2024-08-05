@@ -10,7 +10,7 @@ I am a third-year undergraduate student at [South China University of Technology
 
 The goal of my work is to empower interactive AI systems with capabilities beyond the human level to assist humans effectively in real-world scenarios in sustainable and responsible ways. My research interests lie in **natural language processing** and **machine learning**. Currently, I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on vision-language models self-correction reasoning. I am also collaborating with Prof. [Jiaxin Huang](https://teapot123.github.io/).
 
-Email: jiayihe3612@gmail.com
+Email: jiayihe3612@gmail.com  
 [X](https://x.com/ivy3h)/[CV](resume.pdf)/[Google Scholar](https://scholar.google.com/citations?user=zfXYzLgAAAAJ&hl=en)
 ## Experiences
 
