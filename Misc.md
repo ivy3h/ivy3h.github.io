@@ -11,13 +11,13 @@ layout: default
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="../assets/img/alaska1.jpg" alt="Gallery 1">
+    <img src="../img/alaska1.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/alaska2.jpg" alt="Gallery 2">
+    <img src="../img/alaska2.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/barbara.jpg" alt="Gallery 3">
+    <img src="../img/barbara.jpg" alt="Gallery 3">
   </div>
 </div>
 
@@ -41,19 +41,19 @@ layout: default
 
 <div class="gallery-container">
   <div class="gallery-item">
-    <img src="../assets/img/Sentosa.jpg" alt="Gallery 1">
+    <img src="../img/Sentosa.jpg" alt="Gallery 1">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/tahoe1.jpg" alt="Gallery 2">
+    <img src="../img/tahoe1.jpg" alt="Gallery 2">
   </div>
   <div class="gallery-item">
-    <img src="../assets/img/tahoe2.jpg" alt="Gallery 3">
+    <img src="../img/tahoe2.jpg" alt="Gallery 3">
   </div>
 </div>
 
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../assets/img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
+  <img src="../img/alaska.jpg" alt="Alaska" style="width: 50%; display: block; margin: 0 auto;">
 </div>
 
 
