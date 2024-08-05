@@ -9,5 +9,5 @@ layout: default
 - Excellence Group Donated Scholarship, 2022  
 
 ## Service
-- TA, Introduction to Dynamics and Vibration
-  South China University of Technology, Undergraduate Course, 2024 Spring
+- TA, Introduction to Dynamics and Vibration  
+  South China University of Technology, 2024 Spring
