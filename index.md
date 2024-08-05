@@ -6,40 +6,41 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a third-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](http://www2.scut.edu.cn/wusie_en/2020/0425/c25923a490121/page.htm). My research goal is to empower interactive AI systems with capabilities beyond the human level to assist humans effectively in real-world scenarios in sustainable and responsible ways. To achieve this goal, my recent research has been centered on the domains of **natural language processing** and **machine learning**. Currently, I am working as a research intern with Prof. [Yiren Fung](https://yrf1.github.io/), focusing on language models self-correction reasoning. I am also collaborating with Prof. [Jiaxin Huang](https://teapot123.github.io/) this summer.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+## Experiences
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- **Research Intern, Washington University in St. Louis(07/2024 - now)**  
+  Advisor: [Jiaxin Huang](https://teapot123.github.io/)
 
-## Publications
+- **Research Intern, University of Illinois, Urbana-Champaign(04/2024 - now)**  
+  Advisor: [Yiren Fung](https://yrf1.github.io/)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- **Research Intern, South China University of Technology(11/2022 - now)**    
+  Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
+  
 
-## Typography
+## Publications and Preprints
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- **Continual Learning with Diffusion-based Generative Replay for Industrial Streaming Data**
+**Jiayi He**, Jiao Chen, Qianmiao Liu, Suyan Dai, Jianhua Tang, Dongpo Liu  
+  _IEEE/CIC International Conference on Communications in China_
+    
+- **Knowledge Efficient Federated Continual Learning for Industrial Edge Systems**  
+Jiao Chen, **Jiayi He**, Jianhua Tang, Weihua Li _under review_
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Selected Awards
 
-Here is a horizontal rule
+- South China University of Technology Academic Scholarship, 2023  
+- South China University of Technology Academic Scholarship, 2022   
+- Excellence Group Donated Scholarship, 2022  
 
----
+  
+## Correspondence
 
-Here is a blockquote
+- Email: <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>, <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>
+- Address: 777 Xingye Avenue East, Panyu District, Guangzhou 511442, P.R. China
 
-> To a great mind, nothing is little
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
