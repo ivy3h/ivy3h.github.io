@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Selected Awards
 
 - South China University of Technology Academic Scholarship, 2023  
