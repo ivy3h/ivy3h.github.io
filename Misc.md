@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Miscellaneous 
 - I was born and raised in Guangzhou, but I have a particular fondness for 🌶️🌶️🌶️.
 - I enjoy playing the koto and guitar, and I also enjoy drawing comics🎨.
