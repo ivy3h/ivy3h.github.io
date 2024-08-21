@@ -4,9 +4,9 @@ layout: default
 
 ## Publications & Preprints
 
-(* indicates equal contribution.)
+(<sup>†</sup> indicates equal contribution.)
 
-- J. He*, H. Lin*, Y.R. Fung, Q. Wang, S. Li, H. Ji  
+- J. He<sup>†</sup>, H. Lin<sup>†</sup>, Y.R. Fung, Q. Wang, S. Li, H. Ji  
   **Self-Correction is More than Refinement: A Learning Framework for Language and Visual Reasoning Tasks**  
   _Under Review_, 2024.
   
@@ -14,7 +14,7 @@ layout: default
   **Forward-Only Continual Learning**  
   _Under Review_, 2024.
 
-- J. Chen*, J. He*, F. Chen, Z. Lv, J. Tang, W. Li, G. Han  
+- J. Chen<sup>†</sup>, J. He<sup>†</sup>, F. Chen, Z. Lv, J. Tang, W. Li, G. Han  
   **Towards Industrial Edge Intelligence: A Survey on IoT-Integrated Continual Large Models**  
   _Under Review_, 2024.
 
