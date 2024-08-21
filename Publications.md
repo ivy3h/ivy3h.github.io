@@ -6,16 +6,16 @@ layout: default
 
 (* indicates equal contribution.)
 
-- J. He*, H. Lin*, Y.R. Fung, Q. Wang, S. Li, H. Ji
-  **Self-Correction is More than Refinement: A Learning Framework for Language and Visual Reasoning Tasks**
+- J. He*, H. Lin*, Y.R. Fung, Q. Wang, S. Li, H. Ji  
+  **Self-Correction is More than Refinement: A Learning Framework for Language and Visual Reasoning Tasks**  
   _Under Review_, 2024.
   
-- C. Jiao, J. He, F. Chen, Z. Lv, J. Tang
-  **Forward-Only Continual Learning**
+- C. Jiao, J. He, F. Chen, Z. Lv, J. Tang  
+  **Forward-Only Continual Learning**  
   _Under Review_, 2024.
 
-- J. Chen*, J. He*, F. Chen, Z. Lv, J. Tang, W. Li, G. Han
-  **Towards Industrial Edge Intelligence: A Survey on IoT-Integrated Continual Large Models**
+- J. Chen*, J. He*, F. Chen, Z. Lv, J. Tang, W. Li, G. Han  
+  **Towards Industrial Edge Intelligence: A Survey on IoT-Integrated Continual Large Models**  
   _Under Review_, 2024.
 
 - J. He, J. Chen, Q. Liu, S. Dai, J. Tang, D. Liu  
