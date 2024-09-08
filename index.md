@@ -16,6 +16,14 @@ Email: jiayihe3612@gmail.com
 [Twitter](https://x.com/ivy3h)/[CV](resume.pdf)/[Google Scholar](https://scholar.google.com/citations?user=zfXYzLgAAAAJ&hl=en)
 
 
-  
+## Experiences
 
+- Research Intern, Washington University in St. Louis (07/2024 - now)  
+  Advisor: [Jiaxin Huang](https://teapot123.github.io/)
+
+- Research Intern, University of Illinois, Urbana-Champaign (04/2024 - now)  
+  Advisor: [Yiren Fung](https://yrf1.github.io/)
+
+- Research Intern, South China University of Technology (11/2022 - now)    
+  Advisor: [Jianhua Tang](http://www2.scut.edu.cn/wusie/2020/0425/c25374a374016/page.htm)
 
