@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Miscellaneous 
-- I was born and raised in Guangzhou, but I love [Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) and [Sichuan cuisine](https://en.wikipedia.org/wiki/Sichuan_cuisine)🌶️🌶️🌶️.
+- I was born and raised in [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou), but I love [Hunan cuisine](https://en.wikipedia.org/wiki/Hunan_cuisine) and [Sichuan cuisine](https://en.wikipedia.org/wiki/Sichuan_cuisine)🌶️🌶️🌶️.
 - I enjoy playing the [guzheng](https://en.wikipedia.org/wiki/Guzheng) and guitar, and I also enjoy drawing comics🎨.
 
 ## Gallery 
