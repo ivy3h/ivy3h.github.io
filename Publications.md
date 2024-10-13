@@ -9,7 +9,7 @@ layout: default
 (<sup>†</sup> indicates equal contribution.)
 
 - J. He<sup>†</sup>, H. Lin<sup>†</sup>, Q. Wang, Y. Fung, H. Ji  
-  **Self-Correction is More than Refinement: A Learning Framework for Language and Visual Reasoning Tasks**  
+  **Self-Correction Learning for Language and Visual Reasoning Tasks**  
   _Under Review_, 2024. [Paper](https://arxiv.org/abs/2410.04055) 
   
 - C. Jiao, J. He, F. Chen, Z. Lv, J. Tang  
