@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Publications"
+ - name: "Publications & Preprints"
    link: "Publications & Preprints"
  - name: "Awards & Services"
    link: "Awards & Service"
