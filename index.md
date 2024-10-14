@@ -12,8 +12,8 @@ I am a fourth-year undergraduate student at [South China University of Technolog
 
 My research goal is to empower AI with capabilities beyond the human level to assist humans effectively in real-world scenarios in sustainable and responsible ways. My research interests lie in **natural language processing** and **machine learning**. Currently, I am working as a research intern with Prof. [Jiaxin Huang](https://teapot123.github.io/) at Washington University in St. Louis. 
 
-Email: <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>, <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>
-[Github](https://github.com/ivy3h)/[Google Scholar](https://scholar.google.com/citations?user=zfXYzLgAAAAJ&hl=en)/[Twitter](https://x.com/ivy3h)/[CV](resume.pdf)
+Email: <a href="mailto:jiayihe3612@gmail.com">jiayihe3612@gmail.com</a>, <a href="mailto:202164020171@mail.scut.edu.cn">202164020171@mail.scut.edu.cn</a>  
+[Github](https://github.com/ivy3h)/[Twitter](https://x.com/ivy3h)/[CV](resume.pdf)
 
 
 ## Experiences
