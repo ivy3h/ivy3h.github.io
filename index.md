@@ -10,7 +10,9 @@ Hi there, welcome to my website!
 
 I am a fourth-year undergraduate student at [South China University of Technology](https://www.scut.edu.cn/en/), where I am fortunate to be advised by Prof. [Jianhua Tang](https://scholar.google.com/citations?user=kvlKtAEAAAAJ&hl=en).  
 
-My research goal is to empower AI with capabilities beyond the human level to _assist humans effectively in real-world scenarios_ in sustainable and responsible ways. I am particularly interested in two interconnected questions: (i) How can AI research draw inspiration from human learning processes? (ii) How can these insights be advanced to provide greater benefits in real-world applications?
+My research goal is to empower AI with capabilities beyond the human level to _assist humans effectively in real-world scenarios_ in sustainable and responsible ways, specifically in areas such as decision-making and complex problem-solving. I am particularly interested in two interconnected questions:  
+- (i) How can AI research draw inspiration from human learning processes?
+- (ii) How can these insights be advanced to provide greater benefits in real-world applications?
 
 To achieve my goal, my current research interests lie in **natural language processing** and **machine learning**. I am currently working as a research intern under the guidance of Prof. [Jiaxin Huang](https://teapot123.github.io/) at Washington University in St. Louis. 
 
